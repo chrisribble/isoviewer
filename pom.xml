@@ -34,6 +34,11 @@
             <artifactId>isoparser</artifactId>
             <version>1.9.41</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-slf4j-impl</artifactId>
+            <version>2.12.1</version>
+        </dependency>
     </dependencies>
 
     <build>
