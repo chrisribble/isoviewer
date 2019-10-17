@@ -32,7 +32,7 @@
         <dependency>
             <groupId>org.mp4parser</groupId>
             <artifactId>isoparser</artifactId>
-            <version>1.9.29</version>
+            <version>1.9.41</version>
         </dependency>
     </dependencies>
 
